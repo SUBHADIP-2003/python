@@ -1,4 +1,4 @@
-# python
+# python electric bill calcul
 def calculate_bill(amount):
 
     if amount < 800:
